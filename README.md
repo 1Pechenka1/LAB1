@@ -1,4 +1,5 @@
 # LAB1
+# Значения a и n вводить через пробел
 def findNOD(a, b):
     if b == 0:
         return a, 1, 0
